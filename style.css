@@ -1,0 +1,13 @@
+/*html,
+body, #myGrid {
+  height: 100%;
+  width: 100%;
+}*/
+
+#myGrid {
+  height: 500px;
+}
+
+.ag-header-cell-text {
+  white-space: normal !important;
+}
